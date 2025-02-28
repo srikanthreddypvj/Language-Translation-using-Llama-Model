@@ -1,4 +1,4 @@
-### 🌍 Language Translation using Llama 🦙
+# 🌍 Language Translation using Llama 🦙
 This repository showcases a Language Translation model built using the Llama architecture. The model is trained to translate between multiple languages, leveraging datasets from Hugging Face and fine-tuned using LoRa (Low-Rank Adaptation) for enhanced performance.
 
 ## Features:
