@@ -6,6 +6,7 @@ This repository showcases a Language Translation model built using the Llama arc
 2. Llama Model: Powered by the state-of-the-art Llama architecture for language modeling.
 3. LoRa Adaptation: Low-Rank Adaptation for faster and efficient fine-tuning.
 
+
 ## Project Structure:
 notebooks/: Contains the core Jupyter notebooks with the translation model and experiments.
 
